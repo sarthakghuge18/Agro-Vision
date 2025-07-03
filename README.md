@@ -1,12 +1,12 @@
 
 
----
 
-```markdown
+
 # 🌿 Agro Vision - Plant Disease Detection App
 
 Agro Vision is a smart agriculture-focused web app built using **Streamlit** and **Deep Learning**. It helps farmers identify plant diseases using leaf images and offers crop insights, weather updates, and nearby fertilizer store information — all in **English and Marathi**.
 
+---
 
 ## 🚀 Features
 
@@ -17,9 +17,7 @@ Agro Vision is a smart agriculture-focused web app built using **Streamlit** and
 - 🌾 **NPK-based Crop Recommendation**
 - 📊 **Crop Market Price Analysis**
 - 🔐 **User Authentication** – Register/Login System
-
-
-
+---
 ## 🧠 Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
@@ -32,10 +30,6 @@ Agro Vision is a smart agriculture-focused web app built using **Streamlit** and
 
 
 
-
-
----
-````
 ## 🔧 Setup Instructions
 
 1. **Clone this repo**:
@@ -93,5 +87,4 @@ Agro Vision is a smart agriculture-focused web app built using **Streamlit** and
 **Sarthak Ghuge**
 🔗 [LinkedIn](https://www.linkedin.com/in/sarthakghuge18)
 
----
-
+````
