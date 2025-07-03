@@ -1,12 +1,9 @@
 streamlit==1.26.0
-tensorflow==2.11.0
-pandas
-numpy
+pandas==2.2.2
+numpy==1.26.4
+opencv-python
 scikit-learn
 Pillow
 matplotlib
-folium
-streamlit-authenticator
-streamlit-folium
-requests
-joblib
+deep-translator
+tensorflow-cpu==2.10.1
