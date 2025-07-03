@@ -7,7 +7,6 @@
 
 Agro Vision is a smart agriculture-focused web app built using **Streamlit** and **Deep Learning**. It helps farmers identify plant diseases using leaf images and offers crop insights, weather updates, and nearby fertilizer store information — all in **English and Marathi**.
 
----
 
 ## 🚀 Features
 
@@ -31,34 +30,19 @@ Agro Vision is a smart agriculture-focused web app built using **Streamlit** and
   - Google Drive (via gdown)
 - **Language Translation**: Google Translate API
 
+
+
+
+
 ---
-
-## 📁 Project Structure
-
-```
-
-├── app.py                       # Main Streamlit app
-├── auth\_simple.py              # Auth logic (register/login)
-├── class\_indices.json          # Label mappings
-├── crop\_npk.json               # NPK ranges for crops
-├── market.json                 # Market price data
-├── recommendations.json        # Treatment advice
-├── maharashtra\_fertilizer\_stores.json
-├── requirements.txt
-├── .gitignore
-└── README.md
-
 ````
-
----
-
 ## 🔧 Setup Instructions
 
 1. **Clone this repo**:
    ```bash
    git clone https://github.com/sarthakghuge18/Agro-Vision.git
    cd Agro-Vision
-````
+
 
 2. **Create virtual environment** (optional but recommended):
 
